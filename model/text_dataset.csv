@@ -1,0 +1,6 @@
+text,label
+This is an amazing product!,1
+I hate this product!,-1
+This product is okay.,0
+I love this product!,1
+This product is terrible.,-1
